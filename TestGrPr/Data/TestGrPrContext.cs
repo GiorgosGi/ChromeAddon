@@ -17,6 +17,7 @@ namespace TestGrPr.Data
     
         public TestGrPrContext() : base("name=TestGrPrContext")
         {
+
         }
 
         public System.Data.Entity.DbSet<TestGrPr.Models.Customer> Customers { get; set; }

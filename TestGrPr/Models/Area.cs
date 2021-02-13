@@ -8,6 +8,7 @@ namespace TestGrPr.Models
     public class Area
     {
         public int Id { get; set; }
+
         public int AreaCode { get; set; }
     }
 }
