@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeApi", "TestGrPr\ChromeApi.csproj", "{8A23DE24-BBC6-4316-AFE6-C7D5F7BD2F52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeAddon", "TestGrPr\ChromeAddon.csproj", "{8A23DE24-BBC6-4316-AFE6-C7D5F7BD2F52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
